@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833570250390",
+    "firebase_url": "https://chat-dad1f.firebaseio.com",
+    "project_id": "chat-dad1f",
+    "storage_bucket": "chat-dad1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833570250390:android:eb7462694328cadf47ecb7",
+        "android_client_info": {
+          "package_name": "com.iamdeveloper.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833570250390-sfujcfvr1h1etkpojdvfdc63gmhaumfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iamdeveloper.chatapp",
+            "certificate_hash": "bb1c7d9d12f029354a3ddb9991fe0f5d5256382c"
+          }
+        },
+        {
+          "client_id": "833570250390-luveb9hqvlth5jbl3nf1106g1r1pb3dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6KAl0XL56ipvnXYMdSA4CZJI2x3wEQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833570250390-luveb9hqvlth5jbl3nf1106g1r1pb3dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
